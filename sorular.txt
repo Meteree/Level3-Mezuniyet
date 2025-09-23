@@ -1,0 +1,18 @@
+Soru: Nasıl alışveriş yapabilirim?
+Cevap: Alışveriş yapmak için, ilgilendiğiniz ürünü seçip "Alışveriş Sepetine Ekle" butonuna tıklayın. Ardından Alışveriş Sepetine gidin ve satın alma işlemini tamamlamak için yönergeleri takip edin.
+
+Soru: Siparişimin durumunu nasıl öğrenebilirim?
+Cevap: Siparişinizin durumunu öğrenmek için internet sitemizdeki hesabınıza giriş yapın ve "Siparişlerim" bölümüne gidin. Orada, siparişinizin mevcut durumunu görebilirsiniz.
+
+Soru: Bir siparişi nasıl iptal edebilirim?
+Cevap: Siparişinizi iptal etmek istiyorsanız, lütfen en kısa sürede müşteri hizmetlerimizle iletişime geçin. Siparişiniz gönderilmeden önce iptal işleminizde size yardımcı olmaya çalışacağız.
+
+Soru: Siparişim hasarlı gelirse ne yapmalıyım?
+Cevap: Hasarlı bir ürün aldıysanız, lütfen hemen müşteri hizmetlerimizle iletişime geçin ve hasarın fotoğraflarını sağlayın. Ürünü değiştirmeniz veya iade etmeniz konusunda size yardımcı olacağız.
+
+Soru: Teknik destekle nasıl iletişime geçebilirim?
+Cevap: Teknik destekle, internet sitemizde yer alan telefon numarasını arayarak iletişime geçebilirsiniz. Alternatif olarak, sohbet robotumuz üzerinden de bizimle iletişim kurabilirsiniz.
+
+Soru: Ödeme sırasında teslimat yöntemini değiştirebilir miyim?
+Cevap: Evet, ödeme sayfasında teslimat bilgilerini değiştirebilirsiniz. Kullanılabilir teslimat yöntemleri ve şartları orada listelenecektir.
+
