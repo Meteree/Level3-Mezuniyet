@@ -1,1 +1,0 @@
-#soruların cevaplarınının gönderilmesi eklenecek
