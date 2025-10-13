@@ -68,3 +68,5 @@ pip install discord
 
 👨‍💻 **Geliştirici:** Mete  
 🎓 **Proje Türü:** Mezuniyet Projesi  
+
+## NOT:ChatGpt'den yardım alınarak hazırlanmıştır
